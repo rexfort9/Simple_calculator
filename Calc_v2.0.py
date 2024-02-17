@@ -1,6 +1,6 @@
 from colorama import init
 from colorama import Fore, Back, Style
-# use Colorama to make Termcolor work on Windows too
+# use Colorama to make Termcolor work on Windows
 init()
 
 print(Fore.WHITE)
